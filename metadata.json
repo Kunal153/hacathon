@@ -1,0 +1,6 @@
+{
+  "name": "OmniNotes — Engineering Notes & Academic Hub",
+  "description": "Collaborative peer-to-peer engineering notes platform with branch and semester filtering, high-fidelity document previews, interactive reader, PYQs, and study resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
